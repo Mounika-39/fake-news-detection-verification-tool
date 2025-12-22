@@ -2,6 +2,9 @@
 .venv/
 process/.venv/
 
+# database & runtime
+process/instance/
+
 # Windows junk
 desktop.ini
 screenshots/desktop.ini
