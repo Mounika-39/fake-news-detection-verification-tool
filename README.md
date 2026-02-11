@@ -1,7 +1,5 @@
-# 🧠 Fake News Detection & Verification Tool# 🧠 Fake News Detection & Verification Tool
-
+# 🧠 Fake News Detection & Verification Tool
 ![TruthGuard Homepage](Milestone-1/screenshots/homepage1.png)
-
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-black)
@@ -9,9 +7,12 @@
 ![NLP](https://img.shields.io/badge/NLP-Enabled-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Internship Project](https://img.shields.io/badge/Internship-Industry_Project-purple)
+
 ### 🏢 Developed During Infosys Internship
 > An AI-powered web application that detects whether news content is **Real, Suspicious, or Fake** using Machine Learning and Natural Language Processing.
+
 ---
+
 ## 🌟 Project Highlights
 ✔ Industry-style milestone development
 ✔ End-to-end AI application
@@ -20,6 +21,7 @@
 ✔ Production-style architecture
 
 ---
+
 ## 📌 Overview
 The rapid spread of misinformation across digital platforms has made fake news detection a critical global challenge. Manual verification is slow, error-prone, and incapable of handling massive data volumes.
 This project introduces an **automated fake news detection system** that analyzes textual content and generates credibility scores to help users make informed decisions.
@@ -41,6 +43,7 @@ Built with a combination of **Flask**, **Machine Learning**, and **NLP technique
 ```
 User → Web Interface → Flask Backend → NLP Pipeline → ML Model → Database → Dashboard
 ```
+
 ### ⚙️ Working Flow
 1. User submits news text or URL
 2. Backend preprocesses the data
@@ -50,6 +53,7 @@ User → Web Interface → Flask Backend → NLP Pipeline → ML Model → Datab
 6. Results stored in database
 7. Output displayed on interactive dashboard
 ---
+
 ## 📁 Repository Structure
 This repository follows an **industry-standard milestone model** used during the internship.
 ```
@@ -59,7 +63,6 @@ This repository follows an **industry-standard milestone model** used during the
  ┣ 📂 Milestone-3 → Model Development
  ┣ 📂 Milestone-4 → Implementation & Testing
  ┣ 📂 Complete_Project → Final Integrated Application
- ┣ 📂 screenshots
  ┣ 📜 README.md
 ```
 ---
@@ -172,12 +175,6 @@ python app.py
 ✅ Industry-style project execution
 ✅ Clean documentation practices
 
-
----
-
-## 👩‍💻 Author
-
-**Mounika**
 
 ---
 
