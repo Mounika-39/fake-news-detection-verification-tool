@@ -1,39 +1,31 @@
-# 🧠 Fake News Detection & Verification Tool
+# 🧠 Fake News Detection & Verification Tool# 🧠 Fake News Detection & Verification Tool
+
+![TruthGuard Homepage](Milestone-1/screenshots/homepage1.png)
+
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-black)
 ![Machine Learning](https://img.shields.io/badge/AI-ML-green)
 ![NLP](https://img.shields.io/badge/NLP-Enabled-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Internship Project](https://img.shields.io/badge/Internship-Industry_Project-purple)
-
 ### 🏢 Developed During Infosys Internship
-
 > An AI-powered web application that detects whether news content is **Real, Suspicious, or Fake** using Machine Learning and Natural Language Processing.
-
 ---
-
 ## 🌟 Project Highlights
-
 ✔ Industry-style milestone development
 ✔ End-to-end AI application
 ✔ Secure full-stack web system
 ✔ Real-world problem statement
 ✔ Production-style architecture
 
-⭐ **This project demonstrates both software engineering and machine learning expertise.**
-
 ---
-
 ## 📌 Overview
-
 The rapid spread of misinformation across digital platforms has made fake news detection a critical global challenge. Manual verification is slow, error-prone, and incapable of handling massive data volumes.
-
 This project introduces an **automated fake news detection system** that analyzes textual content and generates credibility scores to help users make informed decisions.
-
 Built with a combination of **Flask**, **Machine Learning**, and **NLP techniques**, the system delivers fast, reliable, and scalable verification.
 
 ---
-
 ## 🚀 Key Features
 
 ✨ AI-powered fake news classification
@@ -45,15 +37,11 @@ Built with a combination of **Flask**, **Machine Learning**, and **NLP technique
 ✨ Optimized NLP pipeline for faster predictions
 
 ---
-
 ## 🏗️ System Architecture
-
 ```
 User → Web Interface → Flask Backend → NLP Pipeline → ML Model → Database → Dashboard
 ```
-
 ### ⚙️ Working Flow
-
 1. User submits news text or URL
 2. Backend preprocesses the data
 3. NLP extracts meaningful patterns
@@ -61,13 +49,9 @@ User → Web Interface → Flask Backend → NLP Pipeline → ML Model → Datab
 5. Credibility score is generated
 6. Results stored in database
 7. Output displayed on interactive dashboard
-
 ---
-
 ## 📁 Repository Structure
-
 This repository follows an **industry-standard milestone model** used during the internship.
-
 ```
 📦 fake-news-detection-verification-tool
  ┣ 📂 Milestone-1 → Requirement Analysis
@@ -77,11 +61,7 @@ This repository follows an **industry-standard milestone model** used during the
  ┣ 📂 Complete_Project → Final Integrated Application
  ┣ 📂 screenshots
  ┣ 📜 README.md
- ┗ 📜 requirements.txt
 ```
-
-✅ This structure showcases the full **Software Development Lifecycle (SDLC)** — from planning to deployment.
-
 ---
 
 ## 🧩 Core Modules
@@ -137,29 +117,7 @@ Enables monitoring of system activity and user interactions.
 
 * Natural Language Processing
 * Machine Learning Algorithms
-
 ---
-
-## 📷 Screenshots
-
-Store images inside:
-
-```
-screenshots/
-```
-
-Example:
-
-```markdown
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Prediction](screenshots/result.png)
-```
-
-⭐ Repositories with screenshots are significantly more attractive to recruiters.
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
@@ -167,19 +125,15 @@ Example:
 ```
 git clone https://github.com/your-username/fake-news-detection-verification-tool.git
 ```
-
 ### 2️⃣ Navigate to Folder
-
 ```
 cd fake-news-detection-verification-tool
 ```
 
 ### 3️⃣ Create Virtual Environment
-
 ```
 python -m venv venv
 ```
-
 ### 4️⃣ Activate Environment
 
 **Windows**
@@ -187,15 +141,12 @@ python -m venv venv
 ```
 venv\Scripts\activate
 ```
-
 ### 5️⃣ Install Dependencies
 
 ```
 pip install -r requirements.txt
 ```
-
 ### 6️⃣ Run Application
-
 ```
 python app.py
 ```
