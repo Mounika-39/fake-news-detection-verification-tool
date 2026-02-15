@@ -1,4 +1,9 @@
 # 🧠 Fake News Detection & Verification Tool
+
+## 🌐 Live Demo
+
+🔗 [Click Here to View the Live Application](https://fake-news-detection-verification-tool.onrender.com)
+
 ![TruthGuard Homepage](Milestone-1/screenshots/homepage1.png)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
