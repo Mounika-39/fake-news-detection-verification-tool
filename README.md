@@ -1,8 +1,6 @@
 # 🧠 Fake News Detection & Verification Tool
 
-## 🌐 Live Demo
-
-🔗 [Click Here to View the Live Application](https://fake-news-detection-verification-tool.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://fake-news-detection-verification-tool.onrender.com)
 
 ![TruthGuard Homepage](Milestone-1/screenshots/homepage1.png)
 
@@ -12,6 +10,11 @@
 ![NLP](https://img.shields.io/badge/NLP-Enabled-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Internship Project](https://img.shields.io/badge/Internship-Industry_Project-purple)
+
+## 🌐 Live Demo
+
+🔗 **Click Here:**  
+https://fake-news-detection-verification-tool.onrender.com
 
 ### 🏢 Developed During Infosys Internship
 > An AI-powered web application that detects whether news content is **Real, Suspicious, or Fake** using Machine Learning and Natural Language Processing.
